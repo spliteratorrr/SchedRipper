@@ -1,6 +1,6 @@
 # Sched Ripper
 * Extracts and parses subject scheduling data from an HTML document for easier searching. Retrofitted for Asia Pacific College.
-* Utilizes the Jsoup library.
+* Utilizes the Jsoup HTML parsing library.
 
 ## What it does?
 
